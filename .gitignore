@@ -1,0 +1,9 @@
+data
+runs
+weigths
+taller de tesis
+.venv
+*.ipynb
+*.png
+*.jpg
+*.pt

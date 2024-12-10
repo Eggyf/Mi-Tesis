@@ -1,0 +1,273 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{DiabetesAtlas2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95d818885c5cbef97c813955baab6846}{%
+           family={Federation},
+           familyi={F\bibinitperiod},
+           given={International\bibnamedelima Diabetes},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95d818885c5cbef97c813955baab6846}
+      \strng{fullhash}{95d818885c5cbef97c813955baab6846}
+      \strng{bibnamehash}{95d818885c5cbef97c813955baab6846}
+      \strng{authorbibnamehash}{95d818885c5cbef97c813955baab6846}
+      \strng{authornamehash}{95d818885c5cbef97c813955baab6846}
+      \strng{authorfullhash}{95d818885c5cbef97c813955baab6846}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diabetes Atlas}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://diabetesatlas.org/
+      \endverb
+      \verb{url}
+      \verb https://diabetesatlas.org/
+      \endverb
+    \endentry
+    \entry{segmentanything2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca43b8b2bdf82aa380c9fed8712d8db8}{%
+           family={{Meta AI}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{fullhash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{bibnamehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{authorbibnamehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{authornamehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{authorfullhash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 14 Nov 2023}
+      \field{title}{Segment Anything}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://segment-anything.com/
+      \endverb
+      \verb{url}
+      \verb https://segment-anything.com/
+      \endverb
+    \endentry
+    \entry{msp2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a6768b15be234ac4a3ec01b5951a400}{%
+           family={{Ministerio de Salud Pública}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{fullhash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{bibnamehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{authorbibnamehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{authornamehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{authorfullhash}{0a6768b15be234ac4a3ec01b5951a400}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Accedido el 14 Nov 2023}
+      \field{note}{La Habana: Dirección Nacional de Registros Médicos y Estadísticas de Salud}
+      \field{title}{Anuario Estadístico de Salud 2022}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
+      \endverb
+      \verb{url}
+      \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
+      \endverb
+    \endentry
+    \entry{molnlycke2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd5e86bee5fea6937e737937e538dc54}{%
+           family={{Mölnlycke}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{fullhash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{bibnamehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{authorbibnamehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{authornamehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{authorfullhash}{dd5e86bee5fea6937e737937e538dc54}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 14 Nov 2023}
+      \field{title}{Úlceras de pie diabético}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
+      \endverb
+      \verb{url}
+      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{DiabetesAtlas2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95d818885c5cbef97c813955baab6846}{%
+           family={Federation},
+           familyi={F\bibinitperiod},
+           given={International\bibnamedelima Diabetes},
+           giveni={I\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95d818885c5cbef97c813955baab6846}
+      \strng{fullhash}{95d818885c5cbef97c813955baab6846}
+      \strng{bibnamehash}{95d818885c5cbef97c813955baab6846}
+      \strng{authorbibnamehash}{95d818885c5cbef97c813955baab6846}
+      \strng{authornamehash}{95d818885c5cbef97c813955baab6846}
+      \strng{authorfullhash}{95d818885c5cbef97c813955baab6846}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Diabetes Atlas}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://diabetesatlas.org/
+      \endverb
+      \verb{url}
+      \verb https://diabetesatlas.org/
+      \endverb
+    \endentry
+    \entry{segmentanything2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca43b8b2bdf82aa380c9fed8712d8db8}{%
+           family={{Meta AI}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{fullhash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{bibnamehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{authorbibnamehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{authornamehash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \strng{authorfullhash}{ca43b8b2bdf82aa380c9fed8712d8db8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 14 Nov 2023}
+      \field{title}{Segment Anything}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://segment-anything.com/
+      \endverb
+      \verb{url}
+      \verb https://segment-anything.com/
+      \endverb
+    \endentry
+    \entry{msp2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0a6768b15be234ac4a3ec01b5951a400}{%
+           family={{Ministerio de Salud Pública}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{fullhash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{bibnamehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{authorbibnamehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{authornamehash}{0a6768b15be234ac4a3ec01b5951a400}
+      \strng{authorfullhash}{0a6768b15be234ac4a3ec01b5951a400}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Accedido el 14 Nov 2023}
+      \field{note}{La Habana: Dirección Nacional de Registros Médicos y Estadísticas de Salud}
+      \field{title}{Anuario Estadístico de Salud 2022}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
+      \endverb
+      \verb{url}
+      \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
+      \endverb
+    \endentry
+    \entry{molnlycke2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd5e86bee5fea6937e737937e538dc54}{%
+           family={{Mölnlycke}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{fullhash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{bibnamehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{authorbibnamehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{authornamehash}{dd5e86bee5fea6937e737937e538dc54}
+      \strng{authorfullhash}{dd5e86bee5fea6937e737937e538dc54}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido el 14 Nov 2023}
+      \field{title}{Úlceras de pie diabético}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
+      \endverb
+      \verb{url}
+      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
