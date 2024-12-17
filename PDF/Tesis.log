@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.10)  10 DEC 2024 12:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.10)  17 DEC 2024 09:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -742,7 +742,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--65
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--69
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--75
 
  []
 
@@ -751,21 +756,49 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.71 	
+l.75 	
        [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
-[2] [3]
-<1.jpeg, id=125, 1088.065pt x 417.56pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
+
+ []
+
+[3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+
+ []
+
+
+Overfull \hbox (7.22505pt too wide) in paragraph at lines 125--126
+\OT1/cmr/m/n/12 Trans-for-mer pre-en-tre-na-do en el es-que-ma de Mas-ked Au-to
+-en-co-der(MAE),
+ []
+
+<1.jpeg, id=146, 1088.065pt x 417.56pt>
 File: 1.jpeg Graphic file (type jpg)
 <use 1.jpeg>
-Package pdftex.def Info: 1.jpeg  used on input line 110.
+Package pdftex.def Info: 1.jpeg  used on input line 134.
 (pdftex.def)             Requested size: 390.0pt x 149.67159pt.
- [4 <./1.jpeg>] [5] [6] [7] [8] (Tesis.aux
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] [7 <./1.jpeg>] [8] [9] [10] (Tesis.aux
 LaTeX Info: Redefining \sptext on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
@@ -785,13 +818,13 @@ Package logreq Info: Writing requests to 'Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18896 strings out of 475248
- 333817 string characters out of 5757812
- 1927785 words of memory out of 5000000
- 40182 multiletter control sequences out of 15000+600000
+ 18932 strings out of 475248
+ 334738 string characters out of 5757812
+ 1929785 words of memory out of 5000000
+ 40212 multiletter control sequences out of 15000+600000
  568433 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,8n,81p,927b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,8n,81p,1229b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\abdel\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/abdel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/abdel/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -804,9 +837,9 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/abd
 el/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
 ers/abdel/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.p
 fb>
-Output written on Tesis.pdf (12 pages, 250728 bytes).
+Output written on Tesis.pdf (14 pages, 264033 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  118 words of extra memory for PDF output out of 10000 (max. 10000000)
 

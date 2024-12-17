@@ -3061,8 +3061,16 @@
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">DiabetesAtlas2024</bcf:citekey>
     <bcf:citekey order="2" intorder="1">msp2022</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">molnlycke2023</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">segmentanything2023</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Filko2023</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Filko2023</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Filko2023</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Filko2023</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Filko2018</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Filko2018</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">segmentanything2023</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Zhang2023</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">CUN2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Ulceras2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

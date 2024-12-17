@@ -19,6 +19,72 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Ulceras2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9297983c7b6c70fd33fd645948678fd}{%
+           family={Cl},
+           familyi={C\bibinitperiod},
+           given={Úlceras},
+           giveni={Ú\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{fullhash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{bibnamehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{authorbibnamehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{authornamehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{authorfullhash}{c9297983c7b6c70fd33fd645948678fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido: diciembre 2024}
+      \field{title}{El proceso de cicatrización de las heridas crónicas}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://ulceras.cl/monografico/el-proceso-de-cicatrizacion-de-las-heridas-cronicas/
+      \endverb
+      \verb{url}
+      \verb https://ulceras.cl/monografico/el-proceso-de-cicatrizacion-de-las-heridas-cronicas/
+      \endverb
+    \endentry
+    \entry{CUN2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7aedaf7f55e69e9e40111f5cd67c6a81}{%
+           family={Navarra},
+           familyi={N\bibinitperiod},
+           given={Clínica\bibnamedelima Universidad},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{fullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{bibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorbibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authornamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorfullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido: diciembre 2024}
+      \field{title}{Tejido de granulación}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.cun.es/diccionario-medico/terminos/tejido-de-granulacion
+      \endverb
+      \verb{url}
+      \verb https://www.cun.es/diccionario-medico/terminos/tejido-de-granulacion
+      \endverb
+    \endentry
     \entry{DiabetesAtlas2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=95d818885c5cbef97c813955baab6846}{%
@@ -54,6 +120,89 @@
       \verb https://diabetesatlas.org/
       \endverb
     \endentry
+    \entry{Filko2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=421f5590e52c6b5a06d54a6ae03b4eed}{%
+           family={Filko},
+           familyi={F\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=020c98a2d8e21875b75988b602ae16a2}{%
+           family={Nyarko},
+           familyi={N\bibinitperiod},
+           given={Emmanuel\bibnamedelima Karlo},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{fullhash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{bibnamehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{authorbibnamehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{authornamehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{authorfullhash}{03702458f7c6c76c6df490a06e243a55}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{6}
+      \field{title}{2D/3D Wound Segmentation and Measurement Based on a Robot-Driven Reconstruction System}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{3298}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s23063298
+      \endverb
+    \endentry
+    \entry{Filko2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=421f5590e52c6b5a06d54a6ae03b4eed}{%
+           family={Filko},
+           familyi={F\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4f3ebec9de1b772ec022b0e5cd29995}{%
+           family={Cupec},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=020c98a2d8e21875b75988b602ae16a2}{%
+           family={Nyarko},
+           familyi={N\bibinitperiod},
+           given={Emmanuel\bibnamedelima Karlo},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c96c265bffecfdb98c2e1b098c86672a}
+      \strng{fullhash}{15427c001e347318f8e1ea00c08be172}
+      \strng{bibnamehash}{15427c001e347318f8e1ea00c08be172}
+      \strng{authorbibnamehash}{15427c001e347318f8e1ea00c08be172}
+      \strng{authornamehash}{c96c265bffecfdb98c2e1b098c86672a}
+      \strng{authorfullhash}{15427c001e347318f8e1ea00c08be172}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Vision and Applications}
+      \field{title}{Wound measurement by RGB-D camera}
+      \field{volume}{29}
+      \field{year}{2018}
+      \field{pages}{633\bibrangedash 654}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00138-018-0920-4
+      \endverb
+    \endentry
     \entry{segmentanything2023}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ca43b8b2bdf82aa380c9fed8712d8db8}{%
@@ -73,7 +222,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accedido el 14 Nov 2023}
+      \field{note}{Accedido el 14 Nov 2024}
       \field{title}{Segment Anything}
       \field{year}{2023}
       \verb{urlraw}
@@ -102,7 +251,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Accedido el 14 Nov 2023}
+      \field{howpublished}{Accedido el 14 Nov 2024}
       \field{note}{La Habana: Dirección Nacional de Registros Médicos y Estadísticas de Salud}
       \field{title}{Anuario Estadístico de Salud 2022}
       \field{year}{2023}
@@ -113,37 +262,112 @@
       \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
       \endverb
     \endentry
-    \entry{molnlycke2023}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dd5e86bee5fea6937e737937e538dc54}{%
-           family={{Mölnlycke}},
-           familyi={M\bibinitperiod}}}%
+    \entry{Zhang2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f189b293bd3263254702f8c5fe1d714b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baf935fbb30188bc22662909283a8343}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yichen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f495cdda14989886bcfdb65c02b7a19d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{fullhash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{bibnamehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{authorbibnamehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{authornamehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{authorfullhash}{dd5e86bee5fea6937e737937e538dc54}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \strng{namehash}{43f6b7d8131958f2f51a0a7de999ff64}
+      \strng{fullhash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \strng{bibnamehash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \strng{authorbibnamehash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \strng{authornamehash}{43f6b7d8131958f2f51a0a7de999ff64}
+      \strng{authorfullhash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accedido el 14 Nov 2023}
-      \field{title}{Úlceras de pie diabético}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{title}{RGB-D Camera-Based Automatic Wound-Measurement System}
       \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
-      \endverb
-      \verb{url}
-      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
-      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{Ulceras2024}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c9297983c7b6c70fd33fd645948678fd}{%
+           family={Cl},
+           familyi={C\bibinitperiod},
+           given={Úlceras},
+           giveni={Ú\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{fullhash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{bibnamehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{authorbibnamehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{authornamehash}{c9297983c7b6c70fd33fd645948678fd}
+      \strng{authorfullhash}{c9297983c7b6c70fd33fd645948678fd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido: diciembre 2024}
+      \field{title}{El proceso de cicatrización de las heridas crónicas}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://ulceras.cl/monografico/el-proceso-de-cicatrizacion-de-las-heridas-cronicas/
+      \endverb
+      \verb{url}
+      \verb https://ulceras.cl/monografico/el-proceso-de-cicatrizacion-de-las-heridas-cronicas/
+      \endverb
+    \endentry
+    \entry{CUN2023}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7aedaf7f55e69e9e40111f5cd67c6a81}{%
+           family={Navarra},
+           familyi={N\bibinitperiod},
+           given={Clínica\bibnamedelima Universidad},
+           giveni={C\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{fullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{bibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorbibnamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authornamehash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \strng{authorfullhash}{7aedaf7f55e69e9e40111f5cd67c6a81}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accedido: diciembre 2024}
+      \field{title}{Tejido de granulación}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.cun.es/diccionario-medico/terminos/tejido-de-granulacion
+      \endverb
+      \verb{url}
+      \verb https://www.cun.es/diccionario-medico/terminos/tejido-de-granulacion
+      \endverb
+    \endentry
     \entry{DiabetesAtlas2024}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=95d818885c5cbef97c813955baab6846}{%
@@ -179,6 +403,89 @@
       \verb https://diabetesatlas.org/
       \endverb
     \endentry
+    \entry{Filko2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=421f5590e52c6b5a06d54a6ae03b4eed}{%
+           family={Filko},
+           familyi={F\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a4f3ebec9de1b772ec022b0e5cd29995}{%
+           family={Cupec},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=020c98a2d8e21875b75988b602ae16a2}{%
+           family={Nyarko},
+           familyi={N\bibinitperiod},
+           given={Emmanuel\bibnamedelima Karlo},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c96c265bffecfdb98c2e1b098c86672a}
+      \strng{fullhash}{15427c001e347318f8e1ea00c08be172}
+      \strng{bibnamehash}{15427c001e347318f8e1ea00c08be172}
+      \strng{authorbibnamehash}{15427c001e347318f8e1ea00c08be172}
+      \strng{authornamehash}{c96c265bffecfdb98c2e1b098c86672a}
+      \strng{authorfullhash}{15427c001e347318f8e1ea00c08be172}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Vision and Applications}
+      \field{title}{Wound measurement by RGB-D camera}
+      \field{volume}{29}
+      \field{year}{2018}
+      \field{pages}{633\bibrangedash 654}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s00138-018-0920-4
+      \endverb
+    \endentry
+    \entry{Filko2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=421f5590e52c6b5a06d54a6ae03b4eed}{%
+           family={Filko},
+           familyi={F\bibinitperiod},
+           given={Damir},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=020c98a2d8e21875b75988b602ae16a2}{%
+           family={Nyarko},
+           familyi={N\bibinitperiod},
+           given={Emmanuel\bibnamedelima Karlo},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{fullhash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{bibnamehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{authorbibnamehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{authornamehash}{03702458f7c6c76c6df490a06e243a55}
+      \strng{authorfullhash}{03702458f7c6c76c6df490a06e243a55}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{6}
+      \field{title}{2D/3D Wound Segmentation and Measurement Based on a Robot-Driven Reconstruction System}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{3298}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s23063298
+      \endverb
+    \endentry
     \entry{segmentanything2023}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ca43b8b2bdf82aa380c9fed8712d8db8}{%
@@ -198,7 +505,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accedido el 14 Nov 2023}
+      \field{note}{Accedido el 14 Nov 2024}
       \field{title}{Segment Anything}
       \field{year}{2023}
       \verb{urlraw}
@@ -227,7 +534,7 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Accedido el 14 Nov 2023}
+      \field{howpublished}{Accedido el 14 Nov 2024}
       \field{note}{La Habana: Dirección Nacional de Registros Médicos y Estadísticas de Salud}
       \field{title}{Anuario Estadístico de Salud 2022}
       \field{year}{2023}
@@ -238,34 +545,43 @@
       \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
       \endverb
     \endentry
-    \entry{molnlycke2023}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dd5e86bee5fea6937e737937e538dc54}{%
-           family={{Mölnlycke}},
-           familyi={M\bibinitperiod}}}%
+    \entry{Zhang2023}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f189b293bd3263254702f8c5fe1d714b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=baf935fbb30188bc22662909283a8343}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yichen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f495cdda14989886bcfdb65c02b7a19d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{fullhash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{bibnamehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{authorbibnamehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{authornamehash}{dd5e86bee5fea6937e737937e538dc54}
-      \strng{authorfullhash}{dd5e86bee5fea6937e737937e538dc54}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \strng{namehash}{43f6b7d8131958f2f51a0a7de999ff64}
+      \strng{fullhash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \strng{bibnamehash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \strng{authorbibnamehash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \strng{authornamehash}{43f6b7d8131958f2f51a0a7de999ff64}
+      \strng{authorfullhash}{98ac8864dbddf379a1aa1680a1ed0796}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accedido el 14 Nov 2023}
-      \field{title}{Úlceras de pie diabético}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{title}{RGB-D Camera-Based Automatic Wound-Measurement System}
       \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
-      \endverb
-      \verb{url}
-      \verb https://www.molnlycke.lat/nuestro-conocimiento/ulceras-pie-diabetico/
-      \endverb
     \endentry
   \enddatalist
 \endrefsection
