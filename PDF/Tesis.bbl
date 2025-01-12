@@ -272,6 +272,32 @@
       \verb https://ulceras.cl/monografico/el-proceso-de-cicatrizacion-de-las-heridas-cronicas/
       \endverb
     \endentry
+    \entry{mip_pretraining}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd4bc3677ca4a8bc966ee7599923c00e}{%
+           family={Datos.gob},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd4bc3677ca4a8bc966ee7599923c00e}
+      \strng{fullhash}{dd4bc3677ca4a8bc966ee7599923c00e}
+      \strng{bibnamehash}{dd4bc3677ca4a8bc966ee7599923c00e}
+      \strng{authorbibnamehash}{dd4bc3677ca4a8bc966ee7599923c00e}
+      \strng{authornamehash}{dd4bc3677ca4a8bc966ee7599923c00e}
+      \strng{authorfullhash}{dd4bc3677ca4a8bc966ee7599923c00e}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Datos.gob.es}
+      \field{title}{Segment Anything Model: claves del modelo de segmentación de Meta aplicados a los datos espaciales}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://datos.gob.es/es/blog/segment-anything-model-claves-del-modelo-de-segmentacion-de-meta-aplicados-los-datos-espaciales
+      \endverb
+      \verb{url}
+      \verb https://datos.gob.es/es/blog/segment-anything-model-claves-del-modelo-de-segmentacion-de-meta-aplicados-los-datos-espaciales
+      \endverb
+    \endentry
     \entry{BVS2019}{article}{}
       \name{author}{1}{}{%
         {{hash=2cb6d4f38f852e677f45fd21a2d7fb3e}{%
@@ -428,6 +454,56 @@
       \verb{doi}
       \verb 10.3390/s23063298
       \endverb
+    \endentry
+    \entry{goyal2017fully}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=32641b728c017580bf8c2dad87d45958}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Manu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=308e5b37909185dc423f537fdfd7bad1}{%
+           family={Reeves},
+           familyi={R\bibinitperiod},
+           given={Neil\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8c457ba0ea3bbe86d5a6748b879236e8}{%
+           family={Rajbhandari},
+           familyi={R\bibinitperiod},
+           given={Satyan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a010d8bffeb6a28a8f348c1f93a5224a}{%
+           family={Spragg},
+           familyi={S\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3336814a83f15379f2e1eb4336ce9409}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Moi\bibnamedelima Hoon},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Manchester, UK}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ba50a636a1fbec65bc4d3f5c57be9b77}
+      \strng{fullhash}{f3577a5b02023b5e3dfb442474c5fa3b}
+      \strng{bibnamehash}{ba50a636a1fbec65bc4d3f5c57be9b77}
+      \strng{authorbibnamehash}{ba50a636a1fbec65bc4d3f5c57be9b77}
+      \strng{authornamehash}{ba50a636a1fbec65bc4d3f5c57be9b77}
+      \strng{authorfullhash}{f3577a5b02023b5e3dfb442474c5fa3b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2017 IEEE International Conference on Imaging Systems and Techniques (IST)}
+      \field{title}{Fully Convolutional Networks for Diabetic Foot Ulcer Segmentation}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
     \endentry
     \entry{Hu2021}{article}{}
       \name{author}{8}{}{%
@@ -844,6 +920,32 @@
       \verb https://arxiv.org/abs/2304.12306
       \endverb
     \endentry
+    \entry{sa1b_dataset}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c1aea64dafed7b8dc97c99337fdcec11}{%
+           family={MariaIA},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1aea64dafed7b8dc97c99337fdcec11}
+      \strng{fullhash}{c1aea64dafed7b8dc97c99337fdcec11}
+      \strng{bibnamehash}{c1aea64dafed7b8dc97c99337fdcec11}
+      \strng{authorbibnamehash}{c1aea64dafed7b8dc97c99337fdcec11}
+      \strng{authornamehash}{c1aea64dafed7b8dc97c99337fdcec11}
+      \strng{authorfullhash}{c1aea64dafed7b8dc97c99337fdcec11}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Las Cosas De Internet}
+      \field{title}{Segment Anything (SAM): el revolucionario modelo de Meta para democratizar la segmentación de imágenes}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://lascosasdeinternet.com/tech-development/inteligencia-artificial/modelos-ia/segment-anything-sam-el-revolucionario-modelo-de-meta-para-democratizar-la-segmentacion-de-imagenes/
+      \endverb
+      \verb{url}
+      \verb https://lascosasdeinternet.com/tech-development/inteligencia-artificial/modelos-ia/segment-anything-sam-el-revolucionario-modelo-de-meta-para-democratizar-la-segmentacion-de-imagenes/
+      \endverb
+    \endentry
     \entry{segmentanything2023}{online}{}
       \name{author}{1}{}{%
         {{hash=ca43b8b2bdf82aa380c9fed8712d8db8}{%
@@ -933,6 +1035,45 @@
       \verb{url}
       \verb https://salud.msp.gob.cu/wp-content/Anuario/Anuario-2022.pdf
       \endverb
+    \endentry
+    \entry{munoz2024automatic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8e0cf0cb82f392e11055f40f652416a2}{%
+           family={Muñoz},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3820c6bbfd84d613887b653aaba31086}{%
+           family={Rodríguez},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3832920911590c6fe7b8ad0f983fa5f7}{%
+           family={Montalvo},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Habana, Cuba}%
+      }
+      \strng{namehash}{f8bf3b67a1405d736552710db734c030}
+      \strng{fullhash}{f8bf3b67a1405d736552710db734c030}
+      \strng{bibnamehash}{f8bf3b67a1405d736552710db734c030}
+      \strng{authorbibnamehash}{f8bf3b67a1405d736552710db734c030}
+      \strng{authornamehash}{f8bf3b67a1405d736552710db734c030}
+      \strng{authorfullhash}{f8bf3b67a1405d736552710db734c030}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instituto de Cibernética, Matemática y Física (ICIMAF)}
+      \field{number}{1}
+      \field{title}{Automatic Segmentation of Diabetic Foot Ulcer from Mask Region-Based Convolutional Neural Networks}
+      \field{volume}{1}
+      \field{year}{2024}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
     \endentry
     \entry{CUN2023}{online}{}
       \name{author}{1}{}{%
@@ -1032,6 +1173,106 @@
       \endverb
       \verb{url}
       \verb https://www.semanticscholar.org/paper/Transfusion:-Understanding-Transfer-Learning-for-Raghu-Zhang/cff4cb74f4466bd0407977e40ef0be9f444c63ea
+      \endverb
+    \endentry
+    \entry{zero_shot_transfer}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9c71ca0e8ac5da7336ffa149007898f9}{%
+           family={ResearchGate},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c71ca0e8ac5da7336ffa149007898f9}
+      \strng{fullhash}{9c71ca0e8ac5da7336ffa149007898f9}
+      \strng{bibnamehash}{9c71ca0e8ac5da7336ffa149007898f9}
+      \strng{authorbibnamehash}{9c71ca0e8ac5da7336ffa149007898f9}
+      \strng{authornamehash}{9c71ca0e8ac5da7336ffa149007898f9}
+      \strng{authorfullhash}{9c71ca0e8ac5da7336ffa149007898f9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ResearchGate}
+      \field{title}{Accuracy of Segment-Anything Model (SAM) in medical image segmentation tasks}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/370127016_Accuracy_of_Segment-Anything_Model_SAM_in_medical_image_segmentation_tasks
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/370127016_Accuracy_of_Segment-Anything_Model_SAM_in_medical_image_segmentation_tasks
+      \endverb
+    \endentry
+    \entry{sarp2021simultaneous}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9396a5b11be4a90395faa38406fc0726}{%
+           family={Sarp},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f1f60e3c72522228d59e3f581c1a43aa}{%
+           family={Kuzlu},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1e2eb0ee5bc14ad4aae40e881f247553}{%
+           family={Pipattanasomporn},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8792467f9088b437852a16b0a8b03f11}{%
+           family={Guler},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institution of Engineering}%
+        {Technology}%
+      }
+      \strng{namehash}{2c68834e74d12952f9828a9a73702f05}
+      \strng{fullhash}{f931e0c602b9791dc189929ea0ea47fa}
+      \strng{bibnamehash}{2c68834e74d12952f9828a9a73702f05}
+      \strng{authorbibnamehash}{2c68834e74d12952f9828a9a73702f05}
+      \strng{authornamehash}{2c68834e74d12952f9828a9a73702f05}
+      \strng{authorfullhash}{f931e0c602b9791dc189929ea0ea47fa}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Engineering}
+      \field{number}{3}
+      \field{title}{Simultaneous wound border segmentation and tissue classification using a conditional generative adversarial network}
+      \field{volume}{2021}
+      \field{year}{2021}
+      \field{pages}{125\bibrangedash 134}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1049/tje2.12016
+      \endverb
+    \endentry
+    \entry{segment_anything}{article}{}
+      \name{author}{1}{}{%
+        {{hash=88f069848482a556e416f713d2819905}{%
+           family={Ultralytics},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{88f069848482a556e416f713d2819905}
+      \strng{fullhash}{88f069848482a556e416f713d2819905}
+      \strng{bibnamehash}{88f069848482a556e416f713d2819905}
+      \strng{authorbibnamehash}{88f069848482a556e416f713d2819905}
+      \strng{authornamehash}{88f069848482a556e416f713d2819905}
+      \strng{authorfullhash}{88f069848482a556e416f713d2819905}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ultralytics YOLO Docs}
+      \field{title}{SAM (Modelo Segment Anything)}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://docs.ultralytics.com/es/models/sam/
+      \endverb
+      \verb{url}
+      \verb https://docs.ultralytics.com/es/models/sam/
       \endverb
     \endentry
     \entry{Wu2023}{article}{}

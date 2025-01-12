@@ -1,14 +1,18 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'Tesis.blg'
-[128] biber-MSWIN64:340> INFO - === 
-[166] Biber.pm:419> INFO - Reading 'Tesis.bcf'
-[292] Biber.pm:979> INFO - Found 29 citekeys in bib section 0
-[311] Biber.pm:4419> INFO - Processing section 0
-[325] Biber.pm:4610> INFO - Looking for bibtex file 'Bibliography.bib' for section 0
-[368] bibtex.pm:1713> INFO - LaTeX decoding ...
-[396] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliography.bib'
-[615] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[615] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[616] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[659] bbl.pm:660> INFO - Writing 'Tesis.bbl' with encoding 'UTF-8'
-[683] bbl.pm:763> INFO - Output to Tesis.bbl
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Tesis.aux
+I found no \citation commands---while reading file Tesis.aux
+I found no \bibdata command---while reading file Tesis.aux
+I found no \bibstyle command---while reading file Tesis.aux
+You've used 0 entries,
+            0 wiz_defined-function locations,
+            83 strings with 484 characters,
+and the built_in function-call counts, 0 in all, are:
+= -- 0
+> -- 0[1495] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1495] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1496] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[1550] bbl.pm:660> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[1577] bbl.pm:763> INFO - Output to tesis.bbl
+- 0
+(There were 3 error messages)

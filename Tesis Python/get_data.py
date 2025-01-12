@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 
 
-file = "data/20230511_110054.bag"
+file = "./data/20230518_111059.bag"
 config = rs2.config()
 pipeline = rs2.pipeline()
 
@@ -32,4 +32,3 @@ while success:
 
     except:
         success = False
-    
